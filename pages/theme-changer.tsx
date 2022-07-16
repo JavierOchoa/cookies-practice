@@ -63,6 +63,8 @@ const ThemeChangerPage: FC<Props> = ({ theme }) => {
                     </Button>
                 </CardContent>
             </Card>
+            <p>Selecciona el tema y luego recarga la página</p>
+            <p>El botón de solicitud te permite ver más información en la consola</p>
         </Layout>
     )
 }
